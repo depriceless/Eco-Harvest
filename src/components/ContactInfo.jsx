@@ -7,7 +7,7 @@ export default function ContactInfo() {
 
       <p className="mb-1">
         <strong>Phone:</strong>{' '}
-        <a href="tel:+2349151311892">+234 915 131 1892</a>
+        <a href="tel:+2349151311892">+234 915 131 1892</a> 
       </p>
       <p className="mb-1">
         <strong>Email:</strong>{' '}
