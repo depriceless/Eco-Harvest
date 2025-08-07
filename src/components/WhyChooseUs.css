@@ -1,0 +1,32 @@
+.why-title {
+  text-align: center;
+  color: #145524;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.feature-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  border: 1px solid transparent;
+  background-color: #ffffff;
+}
+
+.feature-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-color: #28a745;
+}
+
+.icon svg {
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover .icon svg {
+  transform: scale(1.2);
+}
+
+.why-choose-us-section {
+  margin-top: 2rem;
+}

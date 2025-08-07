@@ -1,0 +1,26 @@
+.contact-us-page {
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.contact-header {
+  background-color: #145524;
+  height: 90vh;
+}
+
+.contact-form input,
+.contact-form textarea {
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #198754;
+  box-shadow: 0 0 0 0.2rem rgba(25, 135, 84, 0.25);
+}
+
+.contact-form button {
+  font-weight: 600;
+  font-size: 1rem;
+}

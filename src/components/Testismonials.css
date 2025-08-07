@@ -1,0 +1,73 @@
+.testimonials-section {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #145524;
+}
+
+.testimonial-cards {
+  display: flex;
+  gap: 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.testimonial-card {
+  width: 100%;  /* Make card take full slide width */
+  max-width: none; /* Remove max-width to avoid shrinking */
+  box-sizing: border-box; /* Avoid padding messing width */
+  /* existing styles below */
+  background: #e6f0e8;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 122, 51, 0.1);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: default;
+  transition: transform 0.3s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-8px);
+}
+
+.testimonial-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 2px solid #007a33;
+}
+
+.testimonial-feedback {
+  font-style: italic;
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  color: #234d20;
+}
+
+.testimonial-name {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 0.2rem;
+}
+
+.testimonial-role {
+  font-size: 0.9rem;
+  color: #3b6d3d;
+
+}
+
+.swiper-pagination-bullet {
+  background: #007a33;
+  opacity: 0.6;
+  width: 12px;
+  height: 12px;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1;
+}
+

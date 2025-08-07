@@ -1,0 +1,39 @@
+.landing-pictures-section {
+  padding: 1rem;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.horizontal-scroll {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  gap: 1rem;
+  padding-bottom: 30px;
+  margin-left: -50px;  
+  /* You can try -5px or -15px based on how much shift you want */
+
+}
+
+.scroll-item {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  width: 300px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.scroll-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.scroll-item img:hover {
+  transform: scale(1.05);
+}
+
