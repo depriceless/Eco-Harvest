@@ -1,0 +1,93 @@
+.stats-section {
+  background-color: #ffffff;
+}
+
+/* Section title */
+.section-title {
+  text-align: center;
+  color: #145524;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+/* Wrapper container */
+.stats-wrapper .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Flex row */
+.stats-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px; /* Spacing between cards */
+  justify-content: center; /* ✅ Center the group of cards */
+}
+
+/* Each card column */
+.stat-col {
+  flex: 0 0 auto;
+  width: 260px; /* ✅ Fixed width to allow centering */
+}
+
+/* Card styles */
+.stat-card {
+  padding: 2rem;
+  border-radius: 12px;
+  background-color: #fff;
+  height: 100%;
+  border: 1px solid transparent;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  text-align: center;
+}
+
+.stat-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-color: #28a745;
+}
+
+/* Icon styling */
+.stat-icon svg {
+  font-size: 2.8rem;
+  color: #198754;
+  transition: transform 0.3s ease;
+  margin-bottom: 1rem;
+}
+
+.stat-card:hover .stat-icon svg {
+  transform: scale(1.2);
+}
+
+/* Tablet screens */
+@media (max-width: 992px) {
+  .stat-col {
+    width: 45%;
+  }
+}
+
+/* Mobile screens */
+@media (max-width: 576px) {
+  .stat-col {
+    width: 100%;
+  }
+
+  .stat-card {
+    padding: 1.5rem 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .stat-icon svg {
+    font-size: 2rem;
+  }
+
+  .section-title {
+    font-size: 1.6rem;
+  }
+}
+.stats-section .section-title {
+  font-size: 1.8rem; /* smaller than before, adjust as needed */
+}
