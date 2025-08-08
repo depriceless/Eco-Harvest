@@ -7,19 +7,19 @@
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://ecoharvestng.com/about</loc>
+    <loc>https://ecoharvestng.com/aboutus</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://ecoharvestng.com/contact</loc>
+    <loc>https://ecoharvestng.com/contactus</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://ecoharvestng.com/services</loc>
+    <loc>https://ecoharvestng.com/products</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://ecoharvestng.com/blog</loc>
+    <loc>https://ecoharvestng.com/testimonial</loc>
     <priority>0.80</priority>
   </url>
 </urlset>
