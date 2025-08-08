@@ -22,7 +22,7 @@ function AboutUs() {
           <div className="row align-items-center">
             <div className="col-md-6 mb-4 mb-md-0">
               <img
-                src="/images/about.jpg"
+                src="https://res.cloudinary.com/dnm19jzvu/image/upload/v1754207501/about_zjfy1b.jpg"
                 alt="Eco Harvest facility"
                 className="img-fluid rounded shadow"
               />
