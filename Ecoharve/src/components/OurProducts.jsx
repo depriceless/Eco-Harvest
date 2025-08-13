@@ -5,18 +5,18 @@ const products = [
  
   {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461767/IMG-20250803-WA0054_by701u.jpg',
-    title: 'Green Lettuce',
-    description: 'Crisp, clean, farm-fresh lettuce leaves.',
+    title: 'Agro Boost',
+    description: 'A broad spectrum fungicide with control over a wide range of fungal disease in different crops such as onion, beans, mazie, rice, pepper,  tomato, potato and cocoa',
   },
   {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461808/IMG-20250803-WA0052_ll6ici.jpg',
-    title: 'Eggplant',
-    description: 'Plump and flavorful organic eggplants.',
+    title: 'Agro Boost',
+    description: 'A broad spectrum fungicide with control over a wide range of fungal disease in different crops such as onion, beans, mazie, rice, pepper,  tomato, potato and cocoa',
   },
   {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461737/IMG-20250803-WA0055_qlxfzr.jpg',
-    title: 'Pumpkin',
-    description: 'Nutritious pumpkins ideal for soups and pies.',
+    title: 'Ikore',
+    description: 'Ikore is a NAFDAC and CRIN approved fungicide for Black pot and pot rot Cherrel wilt Flower abortion Moss Ikore take care of it all We have ikore in 3 different sizes 100g(4 loads) 50g. (2 loads ) 25g (1 load ) All are measured in 15 liters of water per sprayer',
   },
 {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461890/IMG-20250803-WA0051_d4xah8.jpg',
@@ -32,8 +32,8 @@ const products = [
 
   {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461850/IMG-20250802-WA0159_clqcru.jpg',
-    title: 'Pumpkin',
-    description: 'Nutritious pumpkins ideal for soups and pies.',
+    title: 'Agro Boost',
+    description: 'A broad spectrum fungicide with control over a wide range of fungal disease in different crops such as onion, beans, mazie, rice, pepper,  tomato, potato and cocoa',
   },
 
 
