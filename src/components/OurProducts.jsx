@@ -6,7 +6,7 @@ const products = [
   {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461767/IMG-20250803-WA0054_by701u.jpg',
     title: 'Agro Boost',
-    description: 'A broad spectrum fungicide with control over a wide range of fungal disease in different crops such as Onion,beans, maize,rice, pepper,  tomato, potato, cocoa',
+    description: 'A broad spectrum fungicide with control over a wide range of fungal disease in different crops such as Onion, beans, maize, rice, pepper, tomato, potato, cocoa etc.',
   },
   {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461808/IMG-20250803-WA0052_ll6ici.jpg',
@@ -16,7 +16,9 @@ const products = [
   {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461737/IMG-20250803-WA0055_qlxfzr.jpg',
     title: 'Ikore',
-    description: 'Ikore is a NAFDAC and CRIN approved fungicide For Black pot and pot rot Cherrel will Flower abortion Moss'
+    description: 'Ikore is a NAFDAC and CRIN approved fungicide For: Black pot and pot rot, Cherrel wilt, Flower abortion and Moss.'
+
+
 
   },
 {
@@ -28,13 +30,13 @@ const products = [
   {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461737/IMG-20250803-WA0055_qlxfzr.jpg',
     title: 'Ikore',
-    description: '',
+    description: 'ikore is available in different sizes 100g (4 loads) 50g (2 loads ) 25g (1 load ) All are measured in 15 liters of water per sprayer',
   },
 
   {
     image: 'https://res.cloudinary.com/dnm19jzvu/image/upload/v1754461850/IMG-20250802-WA0159_clqcru.jpg',
     title: 'Agro boost',
-    description: '',
+    description: 'Dual action (fungicide + fertilizer) wide crop compatibility',
   },
 
 
