@@ -1,64 +1,19 @@
-# Ecoharve
+<<<<<<< HEAD
+# React + Vite
 
-Ecoharve is a web application built for an agrochemical and farm company. It showcases and sells various types of agricultural chemicals and products to support farming and crop management.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
+Currently, two official plugins are available:
 
-- Clean and responsive design built with React
-- Product listings with images and descriptions
-- Contact forms for customer inquiries
-- Informative pages about the company and services
-- Easy navigation for a smooth user experience
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Technologies Used
+## Expanding the ESLint configuration
 
-- React
-- Vite (fast frontend build tool)
-- CSS for styling
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Ecoharvest
+Eco harvest blog
+>>>>>>> 889edf934210918e39e0e5ad090f70bdd7a9c8e9
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js installed on your machine ([download here](https://nodejs.org/))
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/depriceless/Ecoharve.git
-   cd Ecoharve
-Install dependencies:
-
-
-npm install
-Start the development server:
-
-
-npm run dev
-Open your browser and go to the local server URL shown in the terminal (usually http://localhost:3000).
-
-Contributing
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
-
-License
-This project is licensed under the MIT License.
-
-Contact
-For questions or feedback, please contact [Mutiuridwan0@gmail.com] or open an issue on GitHub.
-
-
-
----
-
-### Why this is better:
-
-- Clear separation of code blocks using triple backticks (```) so commands stand out.
-- Consistent formatting for sections and lists.
-- Correct indentation and spacing.
-- Email and URLs formatted properly.
-- No repeated or mixed text.
-
----
-
+thgfufutfufutdyt
