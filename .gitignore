@@ -98,3 +98,5 @@ vite.config.ts.timestamp-*
 
 # Lock files
 .lock-wscript
+
+Ecoharve/
